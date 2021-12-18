@@ -8,7 +8,7 @@ body {
   width: 320px;
   text-align: center;
   font-family: "Red Hat Display", sans-serif;
-  background: url(./images/pattern-background-mobile.svg);
+  background-image: url(https://idmprofile.github.io/Order-Summary-Component/images/pattern-backround-mobile.svg);
   background-size: 100% 200%;
 }
 
@@ -42,7 +42,7 @@ button {
   border-top-left-radius: 1rem;
   border-top-right-radius: 1rem;
   height: 150px;
-  background-image: url(./images/illustration-hero.svg);
+  background-image: url(https://idmprofile.github.io/Order-Summary-Component/images/illustration-hero.svg);
   background-size: cover;
 }
 
