@@ -15,9 +15,10 @@
 .DS_Store
 .prettierignore
 
-README.md
+README-ORIG.md
 style-guide.md
 /scss
 /design
 
-.zip
+order-summary-component-main.zip
+*.zip
